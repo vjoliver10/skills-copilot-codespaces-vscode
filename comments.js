@@ -4,3 +4,4 @@
 // create a route for comments/:id
 // create a route for comments/:id/edit
 // create a route for comments/:id/delete
+// create a route for comments/:id/update
